@@ -45,5 +45,11 @@ button{
     color: white;
 }
 
+.Flecha{
+    color: rgb(255, 247, 0);
+    position: relative;
+    font-size: 30px;
+    bottom: 10px;
+}
 
 
