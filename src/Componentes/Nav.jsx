@@ -13,6 +13,6 @@ export default function Nav(){
     )
 
     function botaoWhatsapp(){
-        window.location="https://w.app/Techousefc"
+        window.location="https://w.app/4phF2R"
     }
 }
