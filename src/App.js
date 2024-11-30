@@ -1,23 +1,14 @@
-import logo from './logo.svg';
+import Footer from './Componentes/Footer';
+import Nav from './Componentes/Nav';
+import Head from './Componentes/Head';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Head img3="https://rhpravoce.com.br/wp-content/uploads/2020/09/afinal-e-melhor-ser-generalista-ou-especialista-1600357931.jpg" img2="https://www.clinicadojoelho.med.br/wp-content/uploads/2020/10/DOR-NO-JOELHO-NA-MUSCULACAO.jpg" img="https://www.oceandrop.com.br/media/pdp-seo/blog-ocean/definicao_muscular.jpg" />
+      <Nav/>
+      <Footer/>
     </div>
   );
 }

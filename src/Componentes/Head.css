@@ -1,0 +1,34 @@
+.Head{
+    background-color:rgb(18, 18, 18);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Head h1{
+    color: white;
+    text-align: center;
+}
+.Head h2{
+color: white;
+}
+.Head p{
+    max-width: 600px;
+    color: white;
+    text-align: center;
+    margin: 30px;
+}
+
+.Head img{
+    margin: 30px;
+}
+@media (max-width: 380px){
+
+    img{
+        width: 100%
+    }
+
+}
+.Cor{
+    color: rgb(255, 251, 0);
+}

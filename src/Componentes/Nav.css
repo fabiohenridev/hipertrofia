@@ -1,0 +1,44 @@
+h2{
+    color: yellow;
+    margin: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+h3{
+    color: white;
+}
+
+P{
+    color: greenyellow;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+
+.whatsapp{
+    color: greenyellow;
+    font-size: 30px;
+    background-color: rgb(18, 18, 18);
+}
+button{
+    background-color: rgb(18, 18, 18);
+    border: none;
+  
+}
+.Nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(18, 18, 18);;
+}
+
+.BotaoPix{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Receba{
+    color: white;
+}
+
