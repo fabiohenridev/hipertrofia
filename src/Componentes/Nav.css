@@ -37,8 +37,13 @@ button{
     display: flex;
     align-items: center;
     justify-content: center;
+    border: 1px solid greenyellow;
+    padding: 10px 25px;
+    border-radius: 10px;
 }
 .Receba{
     color: white;
 }
+
+
 
