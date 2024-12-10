@@ -14,6 +14,6 @@ export default function Nav(){
     )
 
     function botaoWhatsapp(){
-        window.location="https://w.app/4phF2R"
+        window.location="https://techouseofc.pay.yampi.com.br/r/MRYBDDHPFP"
     }
 }
